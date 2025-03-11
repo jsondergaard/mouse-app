@@ -14,7 +14,7 @@ A menu bar application that saves your mouse cursor position at specified interv
 To build the application, run:
 
 ```bash
-cd /Users/jacob/Projects/mouse-app
+cd /mouse-app
 swift build
 ```
 
